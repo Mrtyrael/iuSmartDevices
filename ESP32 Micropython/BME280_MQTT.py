@@ -9,8 +9,8 @@ import BME280
 from math import pow
 
 # Verbinde dich mit dem WLAN-Netzwerk
-wifi_ssid = 'FRITZ!Box guest'
-wifi_password = 'Dominik!Smart89'
+wifi_ssid = 'WLANNAME'
+wifi_password = 'WLANPW'
 
 
 # MQTT-Konfiguration
